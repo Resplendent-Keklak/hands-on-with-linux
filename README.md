@@ -81,13 +81,13 @@ Write scripts to automate repetitive tasks and put it all together.
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/njitacm/linux-crash-course.git
-   cd linux-crash-course
+   git clone https://github.com/njitacm/hands-on-with-linux.git
+   cd hands-on-with-linux
    ```
 
 2. **Start with Section 1:**
    ```bash
-   cd 01-fundamentals/01-getting-started
+   cd ./01-fundamentals/01-getting-started
    cat README.md
    ```
 
