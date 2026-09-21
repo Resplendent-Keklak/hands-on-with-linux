@@ -81,7 +81,7 @@ Write scripts to automate repetitive tasks and put it all together.
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/linux-crash-course.git
+   git clone https://github.com/njitacm/linux-crash-course.git
    cd linux-crash-course
    ```
 
